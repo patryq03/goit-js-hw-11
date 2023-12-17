@@ -5,7 +5,7 @@ import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const form = document.querySelector('#search-form');
 const input = document.querySelector('input');
-const apiKey = '41180761-f0899a94a2e54aea5b2403dd8';
+const apiKey = '41316122-8be1516af8b9dd89b7470b6b1';
 const gallery = document.querySelector('.gallery');
 const loadMore = document.querySelector('.load-more');
 
