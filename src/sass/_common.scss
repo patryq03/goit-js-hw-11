@@ -7,26 +7,13 @@ nav {
   padding-bottom: 30px;
   position: sticky;
   top: 0;
-  background: repeating-linear-gradient(
-    -45deg,
-    rgb(240, 146, 243) 0%,
-    #e8b159 7.14%,
-    rgb(255, 191, 1) 14.28%,
-    rgb(248, 151, 5) 21.42%,
-    rgb(231, 120, 201) 28.56%,
-    rgb(220, 68, 209) 35.7%,
-    rgb(136, 34, 136) 42.84%,
-    rgb(229, 198, 233) 50%
-  );
-  background-size: 600vw 600vw;
-  -webkit-animation: 'slide' 10s infinite linear forwards;
-  -webkit-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
-  -moz-box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
-  box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  background: #234588;
+  
 }
 
 form {
   color: #555;
+  background-color: white;
   display: flex;
   padding: 2px;
   border: 1px solid currentColor;
